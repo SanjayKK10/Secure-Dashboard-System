@@ -1,0 +1,17 @@
+{
+  "name": "employee-portal",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lucide-react": "^0.344.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "recharts": "^3.8.1",
+    "vite": "^8.0.12"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
